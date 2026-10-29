@@ -1,0 +1,14 @@
+.wake/
+pytypes/
+__pycache__/
+.pytest_cache/
+wake-coverage.cov
+.venv/
+venv/
+.vscode/
+
+.wake
+.env
+pytypes
+*.py[cod]
+.hypothesis/
